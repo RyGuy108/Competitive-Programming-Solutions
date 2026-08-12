@@ -1,3 +1,4 @@
+// Simple contribution note: reviewed cowjogCode.java.
 import java.io.*;
 import java.util.*;
 
