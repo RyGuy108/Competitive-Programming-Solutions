@@ -1,3 +1,4 @@
+// Simple contribution note: reviewed crosswordsCode.java.
 import java.io.*;
 import java.util.*;
 
