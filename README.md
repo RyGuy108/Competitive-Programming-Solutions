@@ -1,1 +1,0 @@
-My USACO and other competitive solutions
